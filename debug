@@ -1,0 +1,3 @@
+./mkbootimg imgconfig.json kernel.efi
+echo Run target remote localhost:1234 in gdb
+qemu-system-x86_64 kernel.efi -s -accel tcg -d int -M smm=off -no-reboot

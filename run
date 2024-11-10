@@ -1,0 +1,2 @@
+./mkbootimg imgconfig.json kernel.efi
+qemu-system-x86_64 kernel.efi

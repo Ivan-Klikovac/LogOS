@@ -1,0 +1,2 @@
+screen=1680x1050
+kernel=sys/kernel.elf
