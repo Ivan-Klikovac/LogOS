@@ -1,7 +1,9 @@
 # LogOS
 
 ## Description
-64-bit x86 "operating system" with no user space meant for testing processor behavior
+64-bit x86 "operating system" with no user space meant for testing processor behavior.
+The project arose out of an interest in Christopher Domas' whitepaper on undocumented x86 instructions.
+The paper can be found here: https://github.com/xoreaxeaxeax/sandsifter/blob/master/references/domas_breaking_the_x86_isa_wp.pdf
 
 ## Requirements
 - Toolchain for x86_64-elf (https://wiki.osdev.org/GCC_Cross-Compiler)
